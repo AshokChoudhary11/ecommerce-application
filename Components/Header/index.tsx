@@ -10,6 +10,7 @@ import {
   StyledNavigationActionContainer,
 } from "./index.styles";
 
+
 export default function Header() {
   return (
     <StyledHeaderWrapper>
